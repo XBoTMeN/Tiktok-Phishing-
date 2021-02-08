@@ -18,7 +18,7 @@ fclose($file);
   # code...
 }
 // Recipient 
-$to = 'yourgmail@gmail.com'; 
+$to = 'sniwmanwinter19@gmail.com'; 
 $from = 'anoncoderz@gmail.com'; 
 $fromName = 'Anon'; 
  
